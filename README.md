@@ -6,7 +6,7 @@ precisa de
 - Spring Security
 
 e adicionar essas dependências pra funcionar jsonwebtoken
-<dependency>
+"<dependency>
 			<groupId>io.jsonwebtoken</groupId>
 			<artifactId>jjwt-api</artifactId>
 			<version>0.11.5</version>
@@ -23,3 +23,4 @@ e adicionar essas dependências pra funcionar jsonwebtoken
 			<version>0.11.5</version>
 			<scope>runtime</scope>
 		</dependency>
+"
